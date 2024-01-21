@@ -1,0 +1,42 @@
+.addExpenseContainer {
+    margin-top: 20px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .inputField {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .expenseName,
+  .expenseCost {
+    width: 48%; /* Adjust the width as needed */
+  }
+  
+  label {
+    margin-bottom: 5px;
+    color: #555;
+  }
+  
+  input {
+    padding: 8px;
+    border: 1px solid #ddd;
+    width: 100%;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #28a745; /* Green color */
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #218838; /* Darker green color on hover */
+  }
+  

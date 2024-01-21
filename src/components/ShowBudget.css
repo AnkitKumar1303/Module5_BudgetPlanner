@@ -1,0 +1,28 @@
+.BudgetContainer {
+    background-color: #007bff; /* Blue color */
+    padding: 20px;
+    color: #fff; /* White color for text */
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  .btn-md {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  .btn-primary {
+    background-color: #0056b3; /* Darker blue color */
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn-primary:hover {
+    background-color: #004080; /* Darker blue color on hover */
+  }
+  
